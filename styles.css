@@ -1,0 +1,9 @@
+.header-color {
+    padding: 20% 45% 10% 45%;
+    color: red;
+}
+
+.planet {
+    position: relative;
+    left: 25%
+}
